@@ -2,9 +2,9 @@
   "name": "faroswap-atlantic-bot",
   "version": "1.0.0",
   "description": "A Node.js bot for interacting with the Faroswap protocol on the Pharos testnet",
-  "main": "run.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node run.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kmno",
